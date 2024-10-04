@@ -8,7 +8,7 @@ This dev stack is based on the following:
 - [Chocolatey](https://community.chocolatey.org/) : Package manager
 - [Cmder](https://cmder.app/) : Console emulator
 - [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/install) : Terminal emulator
-- [Neovim](https://neovim.io/) : Text editor (actually [Lazyvim](https://www.lazyvim.org/))
+- [Neovim](https://neovim.io/) : Text editor 
 - [fzf](https://community.chocolatey.org/packages/fzf) : Command-line fuzzy finder
 - [Tree](https://community.chocolatey.org/packages/tree) :  Directory visualizer
 - [Bat](https://community.chocolatey.org/packages/bat) : File visualizer
